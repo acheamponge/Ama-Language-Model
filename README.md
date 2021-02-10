@@ -13,4 +13,7 @@
 Install all modules in requirements file
 cd into folder with code.
 streamlit run app.py
+
+
+Run with Python 3.6 or higher
 ```
